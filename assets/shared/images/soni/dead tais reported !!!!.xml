@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dead tais reported !!!!.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="me muero0000" x="0" y="0" width="2160" height="636" frameX="-3566" frameY="-12" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0001" x="2160" y="0" width="2161" height="636" frameX="-3241" frameY="-12" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0002" x="4321" y="0" width="2160" height="648" frameX="-2998" frameY="0" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0003" x="0" y="648" width="2158" height="648" frameX="-2698" frameY="0" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0004" x="2158" y="648" width="2159" height="648" frameX="-2353" frameY="0" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0005" x="4317" y="648" width="2159" height="648" frameX="-2088" frameY="0" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0006" x="0" y="1296" width="2165" height="648" frameX="-1904" frameY="0" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0007" x="2165" y="1296" width="2165" height="648" frameX="-1851" frameY="0" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0008" x="4330" y="1296" width="2163" height="636" frameX="-1797" frameY="-12" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0009" x="0" y="1944" width="2163" height="617" frameX="-1797" frameY="-14" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0010" x="2163" y="1944" width="2163" height="609" frameX="-1797" frameY="-14" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0011" x="4326" y="1944" width="2163" height="599" frameX="-1797" frameY="-14" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0012" x="0" y="2561" width="2163" height="609" frameX="-1797" frameY="-14" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0013" x="2163" y="2561" width="2163" height="629" frameX="-1797" frameY="-14" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0014" x="4326" y="2561" width="2163" height="629" frameX="-1797" frameY="-14" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0015" x="0" y="3190" width="2163" height="629" frameX="-1797" frameY="-14" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0016" x="2163" y="3190" width="2163" height="629" frameX="-1797" frameY="-14" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0017" x="4326" y="3190" width="2163" height="629" frameX="-1797" frameY="-14" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0018" x="0" y="3819" width="2163" height="629" frameX="-1797" frameY="-14" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0019" x="2163" y="3819" width="2163" height="628" frameX="-1797" frameY="-14" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0020" x="4326" y="3819" width="2163" height="628" frameX="-1797" frameY="-14" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0021" x="0" y="4448" width="2163" height="629" frameX="-1797" frameY="-14" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0022" x="2163" y="4448" width="2163" height="629" frameX="-1797" frameY="-14" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0023" x="4326" y="4448" width="2163" height="629" frameX="-1797" frameY="-14" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0024" x="0" y="5077" width="2163" height="629" frameX="-1797" frameY="-14" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0025" x="2163" y="5077" width="2163" height="629" frameX="-1797" frameY="-14" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0026" x="4326" y="5077" width="2163" height="629" frameX="-1797" frameY="-14" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0027" x="0" y="5706" width="2163" height="628" frameX="-1797" frameY="-14" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0028" x="2163" y="5706" width="2163" height="628" frameX="-1797" frameY="-14" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0029" x="4326" y="5706" width="2163" height="629" frameX="-1797" frameY="-14" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0030" x="0" y="6335" width="2163" height="629" frameX="-1797" frameY="-14" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0031" x="2163" y="6335" width="2163" height="629" frameX="-1797" frameY="-14" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0032" x="4326" y="6335" width="2163" height="629" frameX="-1797" frameY="-14" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0033" x="0" y="6964" width="2163" height="629" frameX="-1797" frameY="-14" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0034" x="2163" y="6964" width="2163" height="629" frameX="-1797" frameY="-14" frameWidth="5726" frameHeight="650"/>
+	<SubTexture name="me muero0035" x="4326" y="6964" width="2163" height="628" frameX="-1797" frameY="-14" frameWidth="5726" frameHeight="650"/>
+</TextureAtlas>

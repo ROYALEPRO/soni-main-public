@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-7,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Soni_Werhog_idle"
+		},
+		{
+			"offsets": [
+				-2,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Soni_Werhog_Down"
+		},
+		{
+			"offsets": [
+				19,
+				107
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Soni_Werhog_up"
+		},
+		{
+			"offsets": [
+				-18,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Soni_Werhog_left"
+		},
+		{
+			"offsets": [
+				117,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Soni_Werhog_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Soni_Werhog",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "werhog",
+	"flip_x": false,
+	"healthbar_colors": [
+		97,
+		87,
+		132
+	],
+	"camera_position": [
+		150,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

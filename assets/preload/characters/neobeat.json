@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-30,
+				-218
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle Dance"
+		},
+		{
+			"offsets": [
+				-79,
+				-319
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left Note"
+		},
+		{
+			"offsets": [
+				-20,
+				-440
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down Note"
+		},
+		{
+			"offsets": [
+				-53,
+				-303
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up note"
+		},
+		{
+			"offsets": [
+				-60,
+				-343
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right Note"
+		},
+		{
+			"offsets": [
+				-30,
+				-288
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "please",
+			"indices": [],
+			"name": "Aceptame waaa"
+		},
+		{
+			"offsets": [
+				-17,
+				-221
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cryone",
+			"indices": [],
+			"name": "weon llorando"
+		},
+		{
+			"offsets": [
+				-21,
+				-524
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "cryloop",
+			"loop": true,
+			"name": "loop weon llorando"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/neobeat",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "neobeat",
+	"flip_x": false,
+	"healthbar_colors": [
+		110,
+		153,
+		223
+	],
+	"camera_position": [
+		0,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Songslet.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Songs0000" x="0" y="0" width="483" height="621"/>
+	<SubTexture name="Songs0001" x="0" y="0" width="483" height="621"/>
+	<SubTexture name="Songs0002" x="483" y="0" width="483" height="621"/>
+	<SubTexture name="Songs0003" x="483" y="0" width="483" height="621"/>
+	<SubTexture name="Songs0004" x="966" y="0" width="483" height="621"/>
+	<SubTexture name="Songs0005" x="966" y="0" width="483" height="621"/>
+	<SubTexture name="Songs0006" x="1449" y="0" width="483" height="621"/>
+	<SubTexture name="Songs0007" x="1449" y="0" width="483" height="621"/>
+	<SubTexture name="Songs0008" x="0" y="621" width="483" height="621"/>
+	<SubTexture name="Songs0009" x="0" y="621" width="483" height="621"/>
+	<SubTexture name="Songs0010" x="483" y="621" width="483" height="621"/>
+	<SubTexture name="Songs0011" x="483" y="621" width="483" height="621"/>
+	<SubTexture name="Songs0012" x="0" y="0" width="483" height="621"/>
+	<SubTexture name="Songs0013" x="0" y="0" width="483" height="621"/>
+	<SubTexture name="Songs0014" x="0" y="0" width="483" height="621"/>
+	<SubTexture name="Songs0015" x="0" y="0" width="483" height="621"/>
+	<SubTexture name="Songs0016" x="0" y="0" width="483" height="621"/>
+</TextureAtlas>

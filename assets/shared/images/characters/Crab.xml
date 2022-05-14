@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Crab.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Crab0000" x="0" y="0" width="498" height="390"/>
+	<SubTexture name="Crab0001" x="498" y="0" width="498" height="390"/>
+	<SubTexture name="Crab0002" x="996" y="0" width="498" height="390"/>
+	<SubTexture name="Crab0003" x="1494" y="0" width="498" height="390"/>
+	<SubTexture name="Crab0004" x="1992" y="0" width="498" height="390"/>
+	<SubTexture name="Crab0005" x="2490" y="0" width="498" height="390"/>
+	<SubTexture name="Crab0006" x="2988" y="0" width="498" height="390"/>
+	<SubTexture name="Crab0007" x="3486" y="0" width="498" height="390"/>
+	<SubTexture name="Crab0008" x="0" y="390" width="498" height="390"/>
+	<SubTexture name="Crab0009" x="498" y="390" width="498" height="390"/>
+	<SubTexture name="Crab0010" x="996" y="390" width="498" height="390"/>
+	<SubTexture name="Crab0011" x="1494" y="390" width="498" height="390"/>
+	<SubTexture name="Crab0012" x="1992" y="390" width="498" height="390"/>
+	<SubTexture name="Crab0013" x="2490" y="390" width="498" height="390"/>
+	<SubTexture name="Crab0014" x="2988" y="390" width="498" height="390"/>
+	<SubTexture name="Crab0015" x="3486" y="390" width="498" height="390"/>
+	<SubTexture name="Crab0016" x="0" y="780" width="498" height="390"/>
+	<SubTexture name="Crab0017" x="498" y="780" width="498" height="390"/>
+	<SubTexture name="Crab0018" x="996" y="780" width="498" height="390"/>
+	<SubTexture name="Crab0019" x="1494" y="780" width="498" height="390"/>
+	<SubTexture name="Crab0020" x="1992" y="780" width="498" height="390"/>
+	<SubTexture name="Crab0021" x="2490" y="780" width="498" height="390"/>
+	<SubTexture name="Crab0022" x="2988" y="780" width="498" height="390"/>
+	<SubTexture name="Crab0023" x="3486" y="780" width="498" height="390"/>
+	<SubTexture name="Crab0024" x="0" y="1170" width="498" height="390"/>
+	<SubTexture name="Crab0025" x="498" y="1170" width="498" height="390"/>
+	<SubTexture name="Crab0026" x="996" y="1170" width="498" height="390"/>
+	<SubTexture name="Crab0027" x="1494" y="1170" width="498" height="390"/>
+	<SubTexture name="Crab0028" x="1992" y="1170" width="498" height="390"/>
+	<SubTexture name="Crab0029" x="2490" y="1170" width="498" height="390"/>
+	<SubTexture name="Crab0030" x="2988" y="1170" width="498" height="390"/>
+	<SubTexture name="Crab0031" x="3486" y="1170" width="498" height="390"/>
+	<SubTexture name="Crab0032" x="0" y="1560" width="498" height="390"/>
+	<SubTexture name="Crab0033" x="498" y="1560" width="498" height="390"/>
+	<SubTexture name="Crab0034" x="996" y="1560" width="498" height="390"/>
+	<SubTexture name="Crab0035" x="1494" y="1560" width="498" height="390"/>
+	<SubTexture name="Crab0036" x="1992" y="1560" width="498" height="390"/>
+	<SubTexture name="Crab0037" x="2490" y="1560" width="498" height="390"/>
+	<SubTexture name="Crab0038" x="2988" y="1560" width="498" height="390"/>
+</TextureAtlas>

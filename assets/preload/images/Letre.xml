@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Letre.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Letrero_Down0000" x="0" y="0" width="587" height="497" frameX="0" frameY="-72" frameWidth="587" frameHeight="926"/>
+	<SubTexture name="Letrero_Down0001" x="0" y="0" width="587" height="497" frameX="0" frameY="-72" frameWidth="587" frameHeight="926"/>
+	<SubTexture name="Letrero_Down0002" x="587" y="0" width="587" height="496" frameX="0" frameY="-75" frameWidth="587" frameHeight="926"/>
+	<SubTexture name="Letrero_Down0003" x="1174" y="0" width="587" height="497" frameX="0" frameY="-63" frameWidth="587" frameHeight="926"/>
+	<SubTexture name="Letrero_Down0004" x="0" y="1490" width="587" height="496" frameX="0" frameY="-33" frameWidth="587" frameHeight="897"/>
+	<SubTexture name="Letrero_Down0005" x="1761" y="0" width="587" height="495" frameX="0" frameY="0" frameWidth="587" frameHeight="926"/>
+	<SubTexture name="Letrero_Down0006" x="2348" y="0" width="587" height="496" frameX="0" frameY="-49" frameWidth="587" frameHeight="926"/>
+	<SubTexture name="Letrero_Down0007" x="2935" y="0" width="587" height="497" frameX="0" frameY="-123" frameWidth="587" frameHeight="926"/>
+	<SubTexture name="Letrero_Down0008" x="2935" y="0" width="587" height="497" frameX="0" frameY="-123" frameWidth="587" frameHeight="926"/>
+	<SubTexture name="Letrero_Down0009" x="587" y="993" width="587" height="496" frameX="0" frameY="-313" frameWidth="587" frameHeight="897"/>
+	<SubTexture name="Letrero_Down0010" x="0" y="497" width="587" height="496" frameX="0" frameY="-358" frameWidth="587" frameHeight="926"/>
+	<SubTexture name="Letrero_Down0011" x="0" y="497" width="587" height="496" frameX="0" frameY="-358" frameWidth="587" frameHeight="926"/>
+	<SubTexture name="Letrero_Down0012" x="587" y="497" width="587" height="496" frameX="0" frameY="-412" frameWidth="587" frameHeight="926"/>
+	<SubTexture name="Letrero_Down0013" x="1174" y="497" width="587" height="496" frameX="0" frameY="-430" frameWidth="587" frameHeight="926"/>
+	<SubTexture name="Letrero_Quiet0000" x="0" y="1490" width="587" height="496" frameX="0" frameY="0" frameWidth="587" frameHeight="897"/>
+	<SubTexture name="Letrero_Quiet0001" x="0" y="1490" width="587" height="496" frameX="0" frameY="0" frameWidth="587" frameHeight="897"/>
+	<SubTexture name="Letrero_Quiet0002" x="1761" y="497" width="586" height="496" frameX="0" frameY="0" frameWidth="587" frameHeight="496"/>
+	<SubTexture name="Letrero_Quiet0003" x="2347" y="497" width="587" height="496"/>
+	<SubTexture name="Letrero_Up0000" x="2934" y="497" width="587" height="496" frameX="0" frameY="-401" frameWidth="587" frameHeight="897"/>
+	<SubTexture name="Letrero_Up0001" x="2934" y="497" width="587" height="496" frameX="0" frameY="-401" frameWidth="587" frameHeight="897"/>
+	<SubTexture name="Letrero_Up0002" x="0" y="993" width="587" height="496" frameX="0" frameY="-351" frameWidth="587" frameHeight="897"/>
+	<SubTexture name="Letrero_Up0003" x="587" y="993" width="587" height="496" frameX="0" frameY="-279" frameWidth="587" frameHeight="897"/>
+	<SubTexture name="Letrero_Up0004" x="1174" y="993" width="587" height="497" frameX="0" frameY="-144" frameWidth="587" frameHeight="897"/>
+	<SubTexture name="Letrero_Up0005" x="1174" y="993" width="587" height="497" frameX="0" frameY="-144" frameWidth="587" frameHeight="897"/>
+	<SubTexture name="Letrero_Up0006" x="1761" y="993" width="587" height="496" frameX="0" frameY="-91" frameWidth="587" frameHeight="897"/>
+	<SubTexture name="Letrero_Up0007" x="2348" y="993" width="587" height="497" frameX="0" frameY="-62" frameWidth="587" frameHeight="897"/>
+	<SubTexture name="Letrero_Up0008" x="2935" y="993" width="587" height="497" frameX="0" frameY="-25" frameWidth="587" frameHeight="897"/>
+	<SubTexture name="Letrero_Up0009" x="2935" y="993" width="587" height="497" frameX="0" frameY="-25" frameWidth="587" frameHeight="897"/>
+	<SubTexture name="Letrero_Up0010" x="0" y="1490" width="587" height="496" frameX="0" frameY="0" frameWidth="587" frameHeight="897"/>
+	<SubTexture name="Letrero_Up0011" x="0" y="1490" width="587" height="496" frameX="0" frameY="0" frameWidth="587" frameHeight="897"/>
+	<SubTexture name="Letrero_Up0012" x="587" y="1490" width="587" height="497" frameX="0" frameY="-12" frameWidth="587" frameHeight="897"/>
+	<SubTexture name="Letrero_Up0013" x="1174" y="1490" width="587" height="496" frameX="0" frameY="-29" frameWidth="587" frameHeight="897"/>
+	<SubTexture name="Letrero_Up0014" x="1761" y="1490" width="587" height="497" frameX="0" frameY="-80" frameWidth="587" frameHeight="897"/>
+	<SubTexture name="Letrero_Up0015" x="1761" y="1490" width="587" height="497" frameX="0" frameY="-80" frameWidth="587" frameHeight="897"/>
+	<SubTexture name="Letrero_Up0016" x="2348" y="1490" width="587" height="496" frameX="0" frameY="-50" frameWidth="587" frameHeight="897"/>
+</TextureAtlas>

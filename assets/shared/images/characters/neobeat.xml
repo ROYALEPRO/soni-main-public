@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="neobeat.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Aceptame waaa0000" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0001" x="274" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0002" x="548" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0003" x="822" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0004" x="548" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0005" x="1096" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0006" x="1096" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0007" x="1096" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0008" x="1370" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0009" x="1370" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0010" x="548" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0011" x="548" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0012" x="548" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0013" x="1096" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0014" x="1644" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0015" x="0" y="399" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0016" x="274" y="399" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0017" x="274" y="399" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0018" x="274" y="399" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0019" x="0" y="399" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0020" x="548" y="399" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0021" x="548" y="399" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0022" x="548" y="399" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0023" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0024" x="822" y="399" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0025" x="1096" y="399" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0026" x="1370" y="399" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0027" x="1644" y="399" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0028" x="1644" y="399" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0029" x="1644" y="399" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0030" x="1644" y="399" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0031" x="1644" y="399" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0032" x="1644" y="399" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0033" x="0" y="798" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0034" x="274" y="798" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0035" x="548" y="798" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0036" x="548" y="798" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0037" x="548" y="798" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0038" x="822" y="798" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0039" x="1096" y="798" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0040" x="1370" y="798" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0041" x="1370" y="798" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0042" x="1644" y="798" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0043" x="0" y="1197" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0044" x="274" y="1197" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0045" x="274" y="1197" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0046" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0047" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0048" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0049" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0050" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0051" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0052" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0053" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0054" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0055" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0056" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0057" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0058" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0059" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0060" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0061" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0062" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0063" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0064" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0065" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0066" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0067" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0068" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0069" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0070" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0071" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0072" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0073" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0074" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0075" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0076" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0077" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0078" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0079" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0080" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0081" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0082" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0083" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0084" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0085" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0086" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0087" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0088" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0089" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0090" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0091" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0092" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0093" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0094" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Aceptame waaa0095" x="0" y="0" width="274" height="399"/>
+	<SubTexture name="Down Note0000" x="548" y="1197" width="267" height="260" frameX="0" frameY="0" frameWidth="281" frameHeight="260"/>
+	<SubTexture name="Down Note0001" x="548" y="1197" width="267" height="260" frameX="0" frameY="0" frameWidth="281" frameHeight="260"/>
+	<SubTexture name="Down Note0002" x="815" y="1197" width="278" height="241" frameX="-3" frameY="-10" frameWidth="281" frameHeight="260"/>
+	<SubTexture name="Down Note0003" x="815" y="1197" width="278" height="241" frameX="-3" frameY="-10" frameWidth="281" frameHeight="260"/>
+	<SubTexture name="Down Note0004" x="815" y="1197" width="278" height="241" frameX="-3" frameY="-10" frameWidth="281" frameHeight="260"/>
+	<SubTexture name="Down Note0005" x="815" y="1197" width="278" height="241" frameX="-3" frameY="-10" frameWidth="281" frameHeight="260"/>
+	<SubTexture name="Down Note0006" x="815" y="1197" width="278" height="241" frameX="-3" frameY="-10" frameWidth="281" frameHeight="260"/>
+	<SubTexture name="Down Note0007" x="815" y="1197" width="278" height="241" frameX="-3" frameY="-10" frameWidth="281" frameHeight="260"/>
+	<SubTexture name="Down Note0008" x="815" y="1197" width="278" height="241" frameX="-3" frameY="-10" frameWidth="281" frameHeight="260"/>
+	<SubTexture name="Down Note0009" x="815" y="1197" width="278" height="241" frameX="-3" frameY="-10" frameWidth="281" frameHeight="260"/>
+	<SubTexture name="Down Note0010" x="815" y="1197" width="278" height="241" frameX="-3" frameY="-10" frameWidth="281" frameHeight="260"/>
+	<SubTexture name="Down Note0011" x="815" y="1197" width="278" height="241" frameX="-3" frameY="-10" frameWidth="281" frameHeight="260"/>
+	<SubTexture name="Down Note0012" x="815" y="1197" width="278" height="241" frameX="-3" frameY="-10" frameWidth="281" frameHeight="260"/>
+	<SubTexture name="Down Note0013" x="815" y="1197" width="278" height="241" frameX="-3" frameY="-10" frameWidth="281" frameHeight="260"/>
+	<SubTexture name="Down Note0014" x="815" y="1197" width="278" height="241" frameX="-3" frameY="-10" frameWidth="281" frameHeight="260"/>
+	<SubTexture name="Down Note0015" x="815" y="1197" width="278" height="241" frameX="-3" frameY="-10" frameWidth="281" frameHeight="260"/>
+	<SubTexture name="Down Note0016" x="815" y="1197" width="278" height="241" frameX="-3" frameY="-10" frameWidth="281" frameHeight="260"/>
+	<SubTexture name="Idle Dance0000" x="1093" y="1197" width="273" height="467" frameX="0" frameY="-2" frameWidth="274" frameHeight="469"/>
+	<SubTexture name="Idle Dance0001" x="1093" y="1197" width="273" height="467" frameX="0" frameY="-2" frameWidth="274" frameHeight="469"/>
+	<SubTexture name="Idle Dance0002" x="1366" y="1197" width="272" height="469" frameX="0" frameY="0" frameWidth="274" frameHeight="469"/>
+	<SubTexture name="Idle Dance0003" x="1366" y="1197" width="272" height="469" frameX="0" frameY="0" frameWidth="274" frameHeight="469"/>
+	<SubTexture name="Idle Dance0004" x="1638" y="1197" width="273" height="466" frameX="0" frameY="-3" frameWidth="274" frameHeight="469"/>
+	<SubTexture name="Idle Dance0005" x="1638" y="1197" width="273" height="466" frameX="0" frameY="-3" frameWidth="274" frameHeight="469"/>
+	<SubTexture name="Idle Dance0006" x="0" y="1666" width="274" height="465" frameX="0" frameY="-4" frameWidth="274" frameHeight="469"/>
+	<SubTexture name="Idle Dance0007" x="0" y="1666" width="274" height="465" frameX="0" frameY="-4" frameWidth="274" frameHeight="469"/>
+	<SubTexture name="Idle Dance0008" x="0" y="1666" width="274" height="465" frameX="0" frameY="-4" frameWidth="274" frameHeight="469"/>
+	<SubTexture name="Idle Dance0009" x="0" y="1666" width="274" height="465" frameX="0" frameY="-4" frameWidth="274" frameHeight="469"/>
+	<SubTexture name="Idle Dance0010" x="0" y="1666" width="274" height="465" frameX="0" frameY="-4" frameWidth="274" frameHeight="469"/>
+	<SubTexture name="Idle Dance0011" x="0" y="1666" width="274" height="465" frameX="0" frameY="-4" frameWidth="274" frameHeight="469"/>
+	<SubTexture name="Idle Dance0012" x="0" y="1666" width="274" height="465" frameX="0" frameY="-4" frameWidth="274" frameHeight="469"/>
+	<SubTexture name="Idle Dance0013" x="0" y="1666" width="274" height="465" frameX="0" frameY="-4" frameWidth="274" frameHeight="469"/>
+	<SubTexture name="Left Note0000" x="274" y="1666" width="262" height="358" frameX="-8" frameY="-1" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Left Note0001" x="274" y="1666" width="262" height="358" frameX="-8" frameY="-1" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Left Note0002" x="536" y="1666" width="259" height="359" frameX="0" frameY="0" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Left Note0003" x="536" y="1666" width="259" height="359" frameX="0" frameY="0" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Left Note0004" x="536" y="1666" width="259" height="359" frameX="0" frameY="0" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Left Note0005" x="536" y="1666" width="259" height="359" frameX="0" frameY="0" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Left Note0006" x="536" y="1666" width="259" height="359" frameX="0" frameY="0" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Left Note0007" x="536" y="1666" width="259" height="359" frameX="0" frameY="0" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Left Note0008" x="536" y="1666" width="259" height="359" frameX="0" frameY="0" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Left Note0009" x="536" y="1666" width="259" height="359" frameX="0" frameY="0" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Left Note0010" x="536" y="1666" width="259" height="359" frameX="0" frameY="0" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Left Note0011" x="536" y="1666" width="259" height="359" frameX="0" frameY="0" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Left Note0012" x="536" y="1666" width="259" height="359" frameX="0" frameY="0" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Left Note0013" x="536" y="1666" width="259" height="359" frameX="0" frameY="0" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Left Note0014" x="536" y="1666" width="259" height="359" frameX="0" frameY="0" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Left Note0015" x="536" y="1666" width="259" height="359" frameX="0" frameY="0" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Left Note0016" x="536" y="1666" width="259" height="359" frameX="0" frameY="0" frameWidth="270" frameHeight="359"/>
+	<SubTexture name="Right Note0000" x="795" y="1666" width="217" height="337" frameX="-1" frameY="0" frameWidth="228" frameHeight="337"/>
+	<SubTexture name="Right Note0001" x="795" y="1666" width="217" height="337" frameX="-1" frameY="0" frameWidth="228" frameHeight="337"/>
+	<SubTexture name="Right Note0002" x="1012" y="1666" width="228" height="329" frameX="0" frameY="-8" frameWidth="228" frameHeight="337"/>
+	<SubTexture name="Right Note0003" x="1012" y="1666" width="228" height="329" frameX="0" frameY="-8" frameWidth="228" frameHeight="337"/>
+	<SubTexture name="Right Note0004" x="1012" y="1666" width="228" height="329" frameX="0" frameY="-8" frameWidth="228" frameHeight="337"/>
+	<SubTexture name="Right Note0005" x="1012" y="1666" width="228" height="329" frameX="0" frameY="-8" frameWidth="228" frameHeight="337"/>
+	<SubTexture name="Right Note0006" x="1012" y="1666" width="228" height="329" frameX="0" frameY="-8" frameWidth="228" frameHeight="337"/>
+	<SubTexture name="Right Note0007" x="1012" y="1666" width="228" height="329" frameX="0" frameY="-8" frameWidth="228" frameHeight="337"/>
+	<SubTexture name="Right Note0008" x="1012" y="1666" width="228" height="329" frameX="0" frameY="-8" frameWidth="228" frameHeight="337"/>
+	<SubTexture name="Right Note0009" x="1012" y="1666" width="228" height="329" frameX="0" frameY="-8" frameWidth="228" frameHeight="337"/>
+	<SubTexture name="Right Note0010" x="1012" y="1666" width="228" height="329" frameX="0" frameY="-8" frameWidth="228" frameHeight="337"/>
+	<SubTexture name="Right Note0011" x="1012" y="1666" width="228" height="329" frameX="0" frameY="-8" frameWidth="228" frameHeight="337"/>
+	<SubTexture name="Right Note0012" x="1012" y="1666" width="228" height="329" frameX="0" frameY="-8" frameWidth="228" frameHeight="337"/>
+	<SubTexture name="Right Note0013" x="1012" y="1666" width="228" height="329" frameX="0" frameY="-8" frameWidth="228" frameHeight="337"/>
+	<SubTexture name="Right Note0014" x="1012" y="1666" width="228" height="329" frameX="0" frameY="-8" frameWidth="228" frameHeight="337"/>
+	<SubTexture name="Right Note0015" x="1012" y="1666" width="228" height="329" frameX="0" frameY="-8" frameWidth="228" frameHeight="337"/>
+	<SubTexture name="Right Note0016" x="1012" y="1666" width="228" height="329" frameX="0" frameY="-8" frameWidth="228" frameHeight="337"/>
+	<SubTexture name="Up note0000" x="1240" y="1666" width="243" height="386" frameX="-7" frameY="0" frameWidth="251" frameHeight="386"/>
+	<SubTexture name="Up note0001" x="1240" y="1666" width="243" height="386" frameX="-7" frameY="0" frameWidth="251" frameHeight="386"/>
+	<SubTexture name="Up note0002" x="1483" y="1666" width="251" height="376" frameX="0" frameY="-10" frameWidth="251" frameHeight="386"/>
+	<SubTexture name="Up note0003" x="1483" y="1666" width="251" height="376" frameX="0" frameY="-10" frameWidth="251" frameHeight="386"/>
+	<SubTexture name="Up note0004" x="1483" y="1666" width="251" height="376" frameX="0" frameY="-10" frameWidth="251" frameHeight="386"/>
+	<SubTexture name="Up note0005" x="1483" y="1666" width="251" height="376" frameX="0" frameY="-10" frameWidth="251" frameHeight="386"/>
+	<SubTexture name="Up note0006" x="1483" y="1666" width="251" height="376" frameX="0" frameY="-10" frameWidth="251" frameHeight="386"/>
+	<SubTexture name="Up note0007" x="1483" y="1666" width="251" height="376" frameX="0" frameY="-10" frameWidth="251" frameHeight="386"/>
+	<SubTexture name="Up note0008" x="1483" y="1666" width="251" height="376" frameX="0" frameY="-10" frameWidth="251" frameHeight="386"/>
+	<SubTexture name="Up note0009" x="1483" y="1666" width="251" height="376" frameX="0" frameY="-10" frameWidth="251" frameHeight="386"/>
+	<SubTexture name="Up note0010" x="1483" y="1666" width="251" height="376" frameX="0" frameY="-10" frameWidth="251" frameHeight="386"/>
+	<SubTexture name="Up note0011" x="1483" y="1666" width="251" height="376" frameX="0" frameY="-10" frameWidth="251" frameHeight="386"/>
+	<SubTexture name="Up note0012" x="1483" y="1666" width="251" height="376" frameX="0" frameY="-10" frameWidth="251" frameHeight="386"/>
+	<SubTexture name="Up note0013" x="1483" y="1666" width="251" height="376" frameX="0" frameY="-10" frameWidth="251" frameHeight="386"/>
+	<SubTexture name="Up note0014" x="1483" y="1666" width="251" height="376" frameX="0" frameY="-10" frameWidth="251" frameHeight="386"/>
+	<SubTexture name="Up note0015" x="1483" y="1666" width="251" height="376" frameX="0" frameY="-10" frameWidth="251" frameHeight="386"/>
+	<SubTexture name="Up note0016" x="1483" y="1666" width="251" height="376" frameX="0" frameY="-10" frameWidth="251" frameHeight="386"/>
+	<SubTexture name="loop weon llorando0000" x="0" y="2131" width="637" height="177" frameX="0" frameY="0" frameWidth="637" frameHeight="200"/>
+	<SubTexture name="loop weon llorando0001" x="0" y="2131" width="637" height="177" frameX="0" frameY="0" frameWidth="637" frameHeight="200"/>
+	<SubTexture name="loop weon llorando0002" x="637" y="2131" width="637" height="130" frameX="0" frameY="-70" frameWidth="637" frameHeight="200"/>
+	<SubTexture name="loop weon llorando0003" x="637" y="2131" width="637" height="130" frameX="0" frameY="-70" frameWidth="637" frameHeight="200"/>
+	<SubTexture name="loop weon llorando0004" x="637" y="2131" width="637" height="130" frameX="0" frameY="-70" frameWidth="637" frameHeight="200"/>
+	<SubTexture name="loop weon llorando0005" x="637" y="2131" width="637" height="130" frameX="0" frameY="-70" frameWidth="637" frameHeight="200"/>
+	<SubTexture name="loop weon llorando0006" x="1274" y="2131" width="637" height="183" frameX="0" frameY="-17" frameWidth="637" frameHeight="200"/>
+	<SubTexture name="loop weon llorando0007" x="1274" y="2131" width="637" height="183" frameX="0" frameY="-17" frameWidth="637" frameHeight="200"/>
+	<SubTexture name="loop weon llorando0008" x="637" y="2131" width="637" height="130" frameX="0" frameY="-70" frameWidth="637" frameHeight="200"/>
+	<SubTexture name="loop weon llorando0009" x="637" y="2131" width="637" height="130" frameX="0" frameY="-70" frameWidth="637" frameHeight="200"/>
+	<SubTexture name="loop weon llorando0010" x="637" y="2131" width="637" height="130" frameX="0" frameY="-70" frameWidth="637" frameHeight="200"/>
+	<SubTexture name="loop weon llorando0011" x="637" y="2131" width="637" height="130" frameX="0" frameY="-70" frameWidth="637" frameHeight="200"/>
+	<SubTexture name="weon llorando0000" x="0" y="1666" width="274" height="465" frameX="-13" frameY="0" frameWidth="274" frameHeight="469"/>
+	<SubTexture name="weon llorando0001" x="0" y="1666" width="274" height="465" frameX="-13" frameY="0" frameWidth="274" frameHeight="469"/>
+	<SubTexture name="weon llorando0002" x="0" y="2314" width="279" height="465" frameX="-16" frameY="0" frameWidth="643" frameHeight="508"/>
+	<SubTexture name="weon llorando0003" x="0" y="2314" width="279" height="465" frameX="-16" frameY="0" frameWidth="643" frameHeight="508"/>
+	<SubTexture name="weon llorando0004" x="279" y="2314" width="286" height="465" frameX="-20" frameY="0" frameWidth="643" frameHeight="508"/>
+	<SubTexture name="weon llorando0005" x="279" y="2314" width="286" height="465" frameX="-20" frameY="0" frameWidth="643" frameHeight="508"/>
+	<SubTexture name="weon llorando0006" x="565" y="2314" width="408" height="417" frameX="-8" frameY="-44" frameWidth="643" frameHeight="508"/>
+	<SubTexture name="weon llorando0007" x="565" y="2314" width="408" height="417" frameX="-8" frameY="-44" frameWidth="643" frameHeight="508"/>
+	<SubTexture name="weon llorando0008" x="973" y="2314" width="433" height="417" frameX="-29" frameY="-44" frameWidth="643" frameHeight="508"/>
+	<SubTexture name="weon llorando0009" x="1406" y="2314" width="599" height="240" frameX="-12" frameY="-221" frameWidth="643" frameHeight="508"/>
+	<SubTexture name="weon llorando0010" x="0" y="2779" width="621" height="144" frameX="0" frameY="-364" frameWidth="643" frameHeight="508"/>
+	<SubTexture name="weon llorando0011" x="621" y="2779" width="639" height="130" frameX="-4" frameY="-373" frameWidth="643" frameHeight="508"/>
+	<SubTexture name="weon llorando0012" x="1260" y="2779" width="637" height="130" frameX="-4" frameY="-373" frameWidth="643" frameHeight="508"/>
+	<SubTexture name="weon llorando0013" x="1260" y="2779" width="637" height="130" frameX="-4" frameY="-373" frameWidth="643" frameHeight="508"/>
+	<SubTexture name="weon llorando0014" x="1260" y="2779" width="637" height="130" frameX="-4" frameY="-373" frameWidth="643" frameHeight="508"/>
+	<SubTexture name="weon llorando0015" x="1260" y="2779" width="637" height="130" frameX="-4" frameY="-373" frameWidth="643" frameHeight="508"/>
+	<SubTexture name="weon llorando0016" x="1260" y="2779" width="637" height="130" frameX="-4" frameY="-373" frameWidth="643" frameHeight="508"/>
+	<SubTexture name="weon llorando0017" x="1260" y="2779" width="637" height="130" frameX="-4" frameY="-373" frameWidth="643" frameHeight="508"/>
+	<SubTexture name="weon llorando0018" x="1260" y="2779" width="637" height="130" frameX="-4" frameY="-373" frameWidth="643" frameHeight="508"/>
+	<SubTexture name="weon llorando0019" x="1260" y="2779" width="637" height="130" frameX="-4" frameY="-373" frameWidth="643" frameHeight="508"/>
+</TextureAtlas>

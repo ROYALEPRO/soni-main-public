@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Soni_Werhog.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Soni_Werhog_Down0000" x="0" y="0" width="475" height="474" pivotX="-120.9" pivotY="-158.7" frameX="0" frameY="-10" frameWidth="475" frameHeight="484"/>
+	<SubTexture name="Soni_Werhog_Down0001" x="0" y="0" width="475" height="474" frameX="0" frameY="-10" frameWidth="475" frameHeight="484"/>
+	<SubTexture name="Soni_Werhog_Down0002" x="475" y="0" width="468" height="484" frameX="-4" frameY="0" frameWidth="475" frameHeight="484"/>
+	<SubTexture name="Soni_Werhog_Down0003" x="475" y="0" width="468" height="484" frameX="-4" frameY="0" frameWidth="475" frameHeight="484"/>
+	<SubTexture name="Soni_Werhog_Down0004" x="943" y="0" width="468" height="481" frameX="-4" frameY="-3" frameWidth="475" frameHeight="484"/>
+	<SubTexture name="Soni_Werhog_Down0005" x="943" y="0" width="468" height="481" frameX="-4" frameY="-3" frameWidth="475" frameHeight="484"/>
+	<SubTexture name="Soni_Werhog_Down0006" x="943" y="0" width="468" height="481" frameX="-4" frameY="-3" frameWidth="475" frameHeight="484"/>
+	<SubTexture name="Soni_Werhog_Down0007" x="943" y="0" width="468" height="481" frameX="-4" frameY="-3" frameWidth="475" frameHeight="484"/>
+	<SubTexture name="Soni_Werhog_Down0008" x="943" y="0" width="468" height="481" frameX="-4" frameY="-3" frameWidth="475" frameHeight="484"/>
+	<SubTexture name="Soni_Werhog_Down0009" x="943" y="0" width="468" height="481" frameX="-4" frameY="-3" frameWidth="475" frameHeight="484"/>
+	<SubTexture name="Soni_Werhog_Down0010" x="943" y="0" width="468" height="481" frameX="-4" frameY="-3" frameWidth="475" frameHeight="484"/>
+	<SubTexture name="Soni_Werhog_Down0011" x="943" y="0" width="468" height="481" frameX="-4" frameY="-3" frameWidth="475" frameHeight="484"/>
+	<SubTexture name="Soni_Werhog_Down0012" x="943" y="0" width="468" height="481" frameX="-4" frameY="-3" frameWidth="475" frameHeight="484"/>
+	<SubTexture name="Soni_Werhog_Down0013" x="943" y="0" width="468" height="481" frameX="-4" frameY="-3" frameWidth="475" frameHeight="484"/>
+	<SubTexture name="Soni_Werhog_idle0000" x="1411" y="0" width="569" height="470" pivotX="-129.2" pivotY="-158.9" frameX="0" frameY="-14" frameWidth="570" frameHeight="485"/>
+	<SubTexture name="Soni_Werhog_idle0001" x="1411" y="0" width="569" height="470" frameX="0" frameY="-14" frameWidth="570" frameHeight="485"/>
+	<SubTexture name="Soni_Werhog_idle0002" x="1980" y="0" width="570" height="475" frameX="0" frameY="-9" frameWidth="570" frameHeight="485"/>
+	<SubTexture name="Soni_Werhog_idle0003" x="1980" y="0" width="570" height="475" frameX="0" frameY="-9" frameWidth="570" frameHeight="485"/>
+	<SubTexture name="Soni_Werhog_idle0004" x="2550" y="0" width="558" height="480" frameX="-5" frameY="-4" frameWidth="570" frameHeight="485"/>
+	<SubTexture name="Soni_Werhog_idle0005" x="2550" y="0" width="558" height="480" frameX="-5" frameY="-4" frameWidth="570" frameHeight="485"/>
+	<SubTexture name="Soni_Werhog_idle0006" x="3108" y="0" width="554" height="484" frameX="-5" frameY="-1" frameWidth="570" frameHeight="485"/>
+	<SubTexture name="Soni_Werhog_idle0007" x="3108" y="0" width="554" height="484" frameX="-5" frameY="-1" frameWidth="570" frameHeight="485"/>
+	<SubTexture name="Soni_Werhog_idle0008" x="0" y="484" width="556" height="485" frameX="-5" frameY="0" frameWidth="570" frameHeight="485"/>
+	<SubTexture name="Soni_Werhog_idle0009" x="0" y="484" width="556" height="485" frameX="-5" frameY="0" frameWidth="570" frameHeight="485"/>
+	<SubTexture name="Soni_Werhog_idle0010" x="0" y="484" width="556" height="485" frameX="-5" frameY="0" frameWidth="570" frameHeight="485"/>
+	<SubTexture name="Soni_Werhog_idle0011" x="0" y="484" width="556" height="485" frameX="-5" frameY="0" frameWidth="570" frameHeight="485"/>
+	<SubTexture name="Soni_Werhog_idle0012" x="0" y="484" width="556" height="485" frameX="-5" frameY="0" frameWidth="570" frameHeight="485"/>
+	<SubTexture name="Soni_Werhog_idle0013" x="0" y="484" width="556" height="485" frameX="-5" frameY="0" frameWidth="570" frameHeight="485"/>
+	<SubTexture name="Soni_Werhog_left0000" x="556" y="484" width="578" height="513" pivotX="-140.1" pivotY="-130.05" frameX="-1" frameY="0" frameWidth="579" frameHeight="513"/>
+	<SubTexture name="Soni_Werhog_left0001" x="556" y="484" width="578" height="513" frameX="-1" frameY="0" frameWidth="579" frameHeight="513"/>
+	<SubTexture name="Soni_Werhog_left0002" x="1134" y="484" width="568" height="513" frameX="0" frameY="0" frameWidth="579" frameHeight="513"/>
+	<SubTexture name="Soni_Werhog_left0003" x="1134" y="484" width="568" height="513" frameX="0" frameY="0" frameWidth="579" frameHeight="513"/>
+	<SubTexture name="Soni_Werhog_left0004" x="1702" y="484" width="566" height="513" frameX="0" frameY="0" frameWidth="579" frameHeight="513"/>
+	<SubTexture name="Soni_Werhog_left0005" x="1702" y="484" width="566" height="513" frameX="0" frameY="0" frameWidth="579" frameHeight="513"/>
+	<SubTexture name="Soni_Werhog_left0006" x="1702" y="484" width="566" height="513" frameX="0" frameY="0" frameWidth="579" frameHeight="513"/>
+	<SubTexture name="Soni_Werhog_left0007" x="1702" y="484" width="566" height="513" frameX="0" frameY="0" frameWidth="579" frameHeight="513"/>
+	<SubTexture name="Soni_Werhog_left0008" x="1702" y="484" width="566" height="513" frameX="0" frameY="0" frameWidth="579" frameHeight="513"/>
+	<SubTexture name="Soni_Werhog_left0009" x="1702" y="484" width="566" height="513" frameX="0" frameY="0" frameWidth="579" frameHeight="513"/>
+	<SubTexture name="Soni_Werhog_left0010" x="1702" y="484" width="566" height="513" frameX="0" frameY="0" frameWidth="579" frameHeight="513"/>
+	<SubTexture name="Soni_Werhog_left0011" x="1702" y="484" width="566" height="513" frameX="0" frameY="0" frameWidth="579" frameHeight="513"/>
+	<SubTexture name="Soni_Werhog_left0012" x="1702" y="484" width="566" height="513" frameX="0" frameY="0" frameWidth="579" frameHeight="513"/>
+	<SubTexture name="Soni_Werhog_left0013" x="1702" y="484" width="566" height="513" frameX="0" frameY="0" frameWidth="579" frameHeight="513"/>
+	<SubTexture name="Soni_Werhog_right0000" x="2268" y="484" width="553" height="514" pivotX="-30.95" pivotY="-127.05" frameX="0" frameY="-2" frameWidth="558" frameHeight="516"/>
+	<SubTexture name="Soni_Werhog_right0001" x="2268" y="484" width="553" height="514" frameX="0" frameY="-2" frameWidth="558" frameHeight="516"/>
+	<SubTexture name="Soni_Werhog_right0002" x="2821" y="484" width="547" height="516" frameX="-6" frameY="0" frameWidth="558" frameHeight="516"/>
+	<SubTexture name="Soni_Werhog_right0003" x="2821" y="484" width="547" height="516" frameX="-6" frameY="0" frameWidth="558" frameHeight="516"/>
+	<SubTexture name="Soni_Werhog_right0004" x="3368" y="484" width="553" height="515" frameX="-5" frameY="-1" frameWidth="558" frameHeight="516"/>
+	<SubTexture name="Soni_Werhog_right0005" x="3368" y="484" width="553" height="515" frameX="-5" frameY="-1" frameWidth="558" frameHeight="516"/>
+	<SubTexture name="Soni_Werhog_right0006" x="3368" y="484" width="553" height="515" frameX="-5" frameY="-1" frameWidth="558" frameHeight="516"/>
+	<SubTexture name="Soni_Werhog_right0007" x="3368" y="484" width="553" height="515" frameX="-5" frameY="-1" frameWidth="558" frameHeight="516"/>
+	<SubTexture name="Soni_Werhog_right0008" x="3368" y="484" width="553" height="515" frameX="-5" frameY="-1" frameWidth="558" frameHeight="516"/>
+	<SubTexture name="Soni_Werhog_right0009" x="3368" y="484" width="553" height="515" frameX="-5" frameY="-1" frameWidth="558" frameHeight="516"/>
+	<SubTexture name="Soni_Werhog_right0010" x="3368" y="484" width="553" height="515" frameX="-5" frameY="-1" frameWidth="558" frameHeight="516"/>
+	<SubTexture name="Soni_Werhog_right0011" x="3368" y="484" width="553" height="515" frameX="-5" frameY="-1" frameWidth="558" frameHeight="516"/>
+	<SubTexture name="Soni_Werhog_right0012" x="3368" y="484" width="553" height="515" frameX="-5" frameY="-1" frameWidth="558" frameHeight="516"/>
+	<SubTexture name="Soni_Werhog_right0013" x="3368" y="484" width="553" height="515" frameX="-5" frameY="-1" frameWidth="558" frameHeight="516"/>
+	<SubTexture name="Soni_Werhog_up0000" x="0" y="1000" width="561" height="591" pivotX="-105.5" pivotY="-50.6" frameX="-1" frameY="0" frameWidth="564" frameHeight="591"/>
+	<SubTexture name="Soni_Werhog_up0001" x="0" y="1000" width="561" height="591" frameX="-1" frameY="0" frameWidth="564" frameHeight="591"/>
+	<SubTexture name="Soni_Werhog_up0002" x="561" y="1000" width="563" height="585" frameX="-1" frameY="-6" frameWidth="564" frameHeight="591"/>
+	<SubTexture name="Soni_Werhog_up0003" x="561" y="1000" width="563" height="585" frameX="-1" frameY="-6" frameWidth="564" frameHeight="591"/>
+	<SubTexture name="Soni_Werhog_up0004" x="1124" y="1000" width="564" height="586" frameX="0" frameY="-5" frameWidth="564" frameHeight="591"/>
+	<SubTexture name="Soni_Werhog_up0005" x="1124" y="1000" width="564" height="586" frameX="0" frameY="-5" frameWidth="564" frameHeight="591"/>
+	<SubTexture name="Soni_Werhog_up0006" x="1124" y="1000" width="564" height="586" frameX="0" frameY="-5" frameWidth="564" frameHeight="591"/>
+	<SubTexture name="Soni_Werhog_up0007" x="1124" y="1000" width="564" height="586" frameX="0" frameY="-5" frameWidth="564" frameHeight="591"/>
+	<SubTexture name="Soni_Werhog_up0008" x="1124" y="1000" width="564" height="586" frameX="0" frameY="-5" frameWidth="564" frameHeight="591"/>
+	<SubTexture name="Soni_Werhog_up0009" x="1124" y="1000" width="564" height="586" frameX="0" frameY="-5" frameWidth="564" frameHeight="591"/>
+	<SubTexture name="Soni_Werhog_up0010" x="1124" y="1000" width="564" height="586" frameX="0" frameY="-5" frameWidth="564" frameHeight="591"/>
+	<SubTexture name="Soni_Werhog_up0011" x="1124" y="1000" width="564" height="586" frameX="0" frameY="-5" frameWidth="564" frameHeight="591"/>
+	<SubTexture name="Soni_Werhog_up0012" x="1124" y="1000" width="564" height="586" frameX="0" frameY="-5" frameWidth="564" frameHeight="591"/>
+	<SubTexture name="Soni_Werhog_up0013" x="1124" y="1000" width="564" height="586" frameX="0" frameY="-5" frameWidth="564" frameHeight="591"/>
+</TextureAtlas>

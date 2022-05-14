@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Flecha.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Flecha10000" x="0" y="0" width="93" height="64"/>
+	<SubTexture name="Flecha20000" x="0" y="64" width="93" height="64"/>
+</TextureAtlas>

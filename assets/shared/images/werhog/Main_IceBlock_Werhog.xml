@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Main_IceBlock_Werhog.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ice plataform instancia 10000" x="0" y="0" width="1863" height="407" pivotX="9.9" pivotY="0.45"/>
+	<SubTexture name="Ice plataform instancia 10001" x="0" y="0" width="1863" height="407"/>
+	<SubTexture name="Ice plataform instancia 10002" x="0" y="407" width="1863" height="406" frameX="0" frameY="0" frameWidth="1863" frameHeight="407"/>
+	<SubTexture name="Ice plataform instancia 10003" x="0" y="407" width="1863" height="406" frameX="0" frameY="0" frameWidth="1863" frameHeight="407"/>
+	<SubTexture name="Ice plataform instancia 10004" x="0" y="813" width="1863" height="407"/>
+	<SubTexture name="Ice plataform instancia 10005" x="0" y="813" width="1863" height="407"/>
+</TextureAtlas>

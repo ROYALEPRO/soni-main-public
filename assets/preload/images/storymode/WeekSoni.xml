@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WeekSoni.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="WeekSoniLetra0000" x="0" y="0" width="804" height="165"/>
+	<SubTexture name="WeekSoniLetra0001" x="0" y="165" width="804" height="165"/>
+	<SubTexture name="WeekSoniLetra0002" x="0" y="330" width="804" height="165"/>
+</TextureAtlas>

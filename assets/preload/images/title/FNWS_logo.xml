@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FNWS_logo.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Logopro0000" x="0" y="0" width="1280" height="720" frameX="-31" frameY="-29" frameWidth="1344" frameHeight="774"/>
+	<SubTexture name="Logopro0001" x="0" y="0" width="1280" height="720" frameX="-31" frameY="-29" frameWidth="1344" frameHeight="774"/>
+	<SubTexture name="Logopro0002" x="1280" y="0" width="1325" height="755" frameX="-9" frameY="-10" frameWidth="1344" frameHeight="774"/>
+	<SubTexture name="Logopro0003" x="1280" y="0" width="1325" height="755" frameX="-9" frameY="-10" frameWidth="1344" frameHeight="774"/>
+	<SubTexture name="Logopro0004" x="2605" y="0" width="1344" height="774"/>
+	<SubTexture name="Logopro0005" x="0" y="774" width="1328" height="760" frameX="-8" frameY="-7" frameWidth="1344" frameHeight="774"/>
+	<SubTexture name="Logopro0006" x="1328" y="774" width="1259" height="701" frameX="-41" frameY="-39" frameWidth="1344" frameHeight="774"/>
+	<SubTexture name="Logopro0007" x="1328" y="774" width="1259" height="701" frameX="-41" frameY="-39" frameWidth="1344" frameHeight="774"/>
+	<SubTexture name="Logopro0008" x="0" y="0" width="1280" height="720" frameX="-31" frameY="-29" frameWidth="1344" frameHeight="774"/>
+	<SubTexture name="Logopro0009" x="0" y="0" width="1280" height="720" frameX="-31" frameY="-29" frameWidth="1344" frameHeight="774"/>
+	<SubTexture name="Logopro0010" x="0" y="0" width="1280" height="720" frameX="-31" frameY="-29" frameWidth="1344" frameHeight="774"/>
+	<SubTexture name="Logopro0011" x="0" y="0" width="1280" height="720" frameX="-31" frameY="-29" frameWidth="1344" frameHeight="774"/>
+	<SubTexture name="Logopro0012" x="0" y="0" width="1280" height="720" frameX="-31" frameY="-29" frameWidth="1344" frameHeight="774"/>
+	<SubTexture name="Logopro0013" x="0" y="0" width="1280" height="720" frameX="-31" frameY="-29" frameWidth="1344" frameHeight="774"/>
+	<SubTexture name="Logopro0014" x="0" y="0" width="1280" height="720" frameX="-31" frameY="-29" frameWidth="1344" frameHeight="774"/>
+</TextureAtlas>

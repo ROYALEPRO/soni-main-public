@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Tais_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				-11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Tais_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-19
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Tais_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				33
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Tais_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Tais_right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tais",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tais",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		119,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

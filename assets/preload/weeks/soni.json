@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Sonicando",
+			"soni",
+			[
+				0,
+				14,
+				226
+			]
+		],
+		[
+			"Faster Rapper",
+			"soni",
+			[
+				0,
+				14,
+				226
+			]
+		],
+		[
+			"SPED",
+			"soni",
+			[
+				0,
+				14,
+				226
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Soni omgomgomg",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "",
+	"startUnlocked": true
+}

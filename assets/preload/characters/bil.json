@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Bil_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				181,
+				-40
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Bil-left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Bil_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				124,
+				100
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Bil_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				27
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Bil-right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bill-etes",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bil",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		236,
+		94
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

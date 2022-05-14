@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Braz.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Braz0000" x="0" y="0" width="643" height="513"/>
+	<SubTexture name="Braz0001" x="0" y="0" width="643" height="513"/>
+	<SubTexture name="Braz0002" x="643" y="0" width="643" height="513"/>
+	<SubTexture name="Braz0003" x="643" y="0" width="643" height="513"/>
+	<SubTexture name="Braz0004" x="1286" y="0" width="643" height="513"/>
+	<SubTexture name="Braz0005" x="1286" y="0" width="643" height="513"/>
+	<SubTexture name="Braz0006" x="0" y="513" width="643" height="513"/>
+	<SubTexture name="Braz0007" x="0" y="513" width="643" height="513"/>
+	<SubTexture name="Braz0008" x="643" y="513" width="643" height="513"/>
+	<SubTexture name="Braz0009" x="643" y="513" width="643" height="513"/>
+	<SubTexture name="Braz0010" x="1286" y="513" width="643" height="513"/>
+	<SubTexture name="Braz0011" x="1286" y="513" width="643" height="513"/>
+	<SubTexture name="Braz0012" x="0" y="0" width="643" height="513"/>
+	<SubTexture name="Braz0013" x="0" y="0" width="643" height="513"/>
+	<SubTexture name="Braz0014" x="0" y="0" width="643" height="513"/>
+	<SubTexture name="Braz0015" x="0" y="0" width="643" height="513"/>
+	<SubTexture name="Braz0016" x="0" y="0" width="643" height="513"/>
+</TextureAtlas>

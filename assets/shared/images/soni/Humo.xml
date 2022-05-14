@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Humo.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Todo0000" x="0" y="0" width="148" height="113" frameX="-648" frameY="-797" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0001" x="148" y="0" width="326" height="142" frameX="-626" frameY="-732" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0002" x="474" y="0" width="495" height="249" frameX="-582" frameY="-651" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0003" x="969" y="0" width="647" height="273" frameX="-496" frameY="-628" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0004" x="1616" y="0" width="926" height="341" frameX="-401" frameY="-567" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0005" x="2542" y="0" width="1168" height="452" frameX="-247" frameY="-453" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0006" x="3710" y="0" width="1328" height="657" frameX="-73" frameY="-253" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0007" x="5038" y="0" width="1344" height="800" frameX="-69" frameY="-138" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0008" x="6382" y="0" width="1468" height="847" frameX="-17" frameY="-89" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0009" x="0" y="847" width="1512" height="945" frameX="0" frameY="-19" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0010" x="1512" y="847" width="1514" height="946" frameX="-6" frameY="0" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0011" x="3026" y="847" width="1502" height="931" frameX="-37" frameY="-20" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0012" x="3026" y="847" width="1502" height="931" frameX="-37" frameY="-20" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0013" x="4528" y="847" width="1521" height="929" frameX="-31" frameY="-20" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0014" x="4528" y="847" width="1521" height="929" frameX="-31" frameY="-20" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0015" x="3026" y="847" width="1502" height="931" frameX="-37" frameY="-20" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0016" x="3026" y="847" width="1502" height="931" frameX="-37" frameY="-20" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0017" x="4528" y="847" width="1521" height="929" frameX="-31" frameY="-20" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0018" x="4528" y="847" width="1521" height="929" frameX="-31" frameY="-20" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0019" x="3026" y="847" width="1502" height="931" frameX="-37" frameY="-20" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0020" x="3026" y="847" width="1502" height="931" frameX="-37" frameY="-20" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0021" x="6049" y="847" width="1502" height="931" frameX="-37" frameY="-20" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0022" x="0" y="1793" width="1502" height="931" frameX="-37" frameY="-20" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0023" x="1502" y="1793" width="1521" height="929" frameX="-31" frameY="-20" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0024" x="3023" y="1793" width="1521" height="929" frameX="-31" frameY="-20" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0025" x="4544" y="1793" width="1502" height="931" frameX="-37" frameY="-20" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0026" x="6046" y="1793" width="1502" height="931" frameX="-37" frameY="-20" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0027" x="0" y="2724" width="1521" height="929" frameX="-31" frameY="-20" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0028" x="1521" y="2724" width="1521" height="929" frameX="-31" frameY="-20" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0029" x="3042" y="2724" width="1502" height="931" frameX="-37" frameY="-20" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0030" x="4544" y="2724" width="1502" height="906" frameX="-37" frameY="-27" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0031" x="6046" y="2724" width="1410" height="904" frameX="-60" frameY="-30" frameWidth="1552" frameHeight="964"/>
+	<SubTexture name="Todo0032" x="7456" y="2724" width="0" height="0" frameX="0" frameY="0" frameWidth="1552" frameHeight="964"/>
+</TextureAtlas>

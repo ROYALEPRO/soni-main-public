@@ -1,0 +1,134 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "soni",
+		"player1": "befe",
+		"player2": "soni",
+		"player3": null,
+		"events": [
+			[
+				7000,
+				[
+					[
+						"Spongebob",
+						"",
+						""
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"happy-birthday"
+					]
+				]
+			],
+			[
+				39000,
+				[
+					[
+						"Spongebob",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"befe"
+					]
+				]
+			],
+			[
+				39250,
+				[
+					[
+						"Spongebob",
+						"",
+						""
+					]
+				]
+			],
+			[
+				39500,
+				[
+					[
+						"Spongebob",
+						"",
+						""
+					]
+				]
+			],
+			[
+				56000,
+				[
+					[
+						"Change Character",
+						"gf",
+						"crab"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gifiend"
+					]
+				]
+			],
+			[
+				114000,
+				[
+					[
+						"Spongebob",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116000,
+				[
+					[
+						"Spongebob",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116250,
+				[
+					[
+						"Spongebob",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116500,
+				[
+					[
+						"Spongebob",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gifiend",
+		"bpm": 120,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Sonicando"
+	}
+}
