@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Metal Sonic Idle"
+		},
+		{
+			"offsets": [
+				7,
+				-98
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Metal Sonic Left"
+		},
+		{
+			"offsets": [
+				-10,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Metal Sonic Down"
+		},
+		{
+			"offsets": [
+				-68,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Metal Sonic Up"
+		},
+		{
+			"offsets": [
+				-37,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Metal Sonic Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/metalsonicchileno",
+	"position": [
+		-100,
+		170
+	],
+	"healthicon": "metalsonicchile",
+	"flip_x": false,
+	"healthbar_colors": [
+		68,
+		58,
+		171
+	],
+	"camera_position": [
+		130,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -115,6 +115,8 @@ class FreeplayState extends MusicBeatState
 			addSong('Broken Reality', 0, 'bil', FlxColor.fromRGB(255, 236, 94));
 		if(FlxG.save.data.beatedSonibars)
 			addSong('Sonibars', 0, 'sonibars', FlxColor.fromRGB(54, 0, 217));
+		if(FlxG.save.data.beatedChile)
+			addSong('Pico', 0, 'chile', FlxColor.fromRGB(34, 58, 213));
 
 		bg = new FlxSprite().loadGraphic(Paths.image('menuDesat'));
 		bg.antialiasing = ClientPrefs.globalAntialiasing;

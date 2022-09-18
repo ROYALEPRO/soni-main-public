@@ -197,6 +197,7 @@ class TitleState extends MusicBeatState
 	var circle:FlxSprite;
 	var soni:FlxSprite;
 	public static var curSoniFrame:Int;
+	var logos:Array<String> = ['logo_sonichile', 'Logo_enviaunmensaje'];
 
 	function startIntro()
 	{
@@ -241,7 +242,7 @@ class TitleState extends MusicBeatState
 			bg.makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
 		}
 
-		soniBG = new FlxSprite().loadGraphic(Paths.image('title/bggg'));
+		soniBG = new FlxSprite().loadGraphic(Paths.image('title/chile/bggg'));
 		soniBG.screenCenter();
 		soniBG.antialiasing = ClientPrefs.globalAntialiasing;
 		add(soniBG);
@@ -256,9 +257,10 @@ class TitleState extends MusicBeatState
 		circle.antialiasing = ClientPrefs.globalAntialiasing;
 		add(circle);*/
 
+		var s:Int = FlxG.random.int(0,1);
 		soni = new FlxSprite();
-		soni.frames = Paths.getSparrowAtlas('title/FNWS_logo');
-		soni.animation.addByPrefix('bump', 'Logopro', 24);
+		soni.frames = Paths.getSparrowAtlas('title/chile/${logos[s]}');
+		soni.animation.addByPrefix('bump', '${logos[s]}', 24);
 		soni.antialiasing = ClientPrefs.globalAntialiasing;
 		soni.screenCenter();
 		add(soni);

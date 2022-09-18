@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sonic Idle"
+		},
+		{
+			"offsets": [
+				67,
+				-156
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sonic Down"
+		},
+		{
+			"offsets": [
+				57,
+				82
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "GameOver Loop"
+		},
+		{
+			"offsets": [
+				-4,
+				72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sonic Up"
+		},
+		{
+			"offsets": [
+				153,
+				89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "GameOver Start"
+		},
+		{
+			"offsets": [
+				175,
+				92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "GameOver Confirm"
+		},
+		{
+			"offsets": [
+				110,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sonic Left"
+		},
+		{
+			"offsets": [
+				22,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sonic Right"
+		},
+		{
+			"offsets": [
+				67,
+				-153
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "MissD"
+		},
+		{
+			"offsets": [
+				-5,
+				72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MissU"
+		},
+		{
+			"offsets": [
+				110,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "MissL"
+		},
+		{
+			"offsets": [
+				23,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "MissR"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sonicracistaassets",
+	"position": [
+		200,
+		200
+	],
+	"healthicon": "sonicracista",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		59,
+		255
+	],
+	"camera_position": [
+		1100,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

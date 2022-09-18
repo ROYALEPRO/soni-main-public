@@ -92,7 +92,10 @@ class ChartingState extends MusicBeatState
 		['Bil Hacks'],
 		['Bil Reset'],
 		['Flip Cam', "Value 1: game or hud (Other seems random)\nValue 2: X or Y (Other seems randoms)"],
-		['Shader', "Value 1: gray, invert, deuter, prota, trita. (Other seems random)"]
+		['Shader', "Value 1: gray, invert, deuter, prota, trita. (Other seems random)"],
+		['Aesthetic', "Value 1: how big is the bar\nValue2: bar appear time"],
+		['Flash', "Value 1: camera to flash (hud, game, notes, other)\nValue 2: flash duration"],
+		['Set Cam Zoom', "Value 1: Cam zoom. \nValue 2: if blank, it will smoothly zoom regularly, \notherwise it will do an instant zoom"]
 	];
 
 	var _file:FileReference;

@@ -38,7 +38,8 @@ class MainMenuState extends MusicBeatState
 		'story_mode',
 		'freeplay',
 		'options',
-		'credits'
+		'credits',
+		'chile'
 	];
 
 	var magenta:FlxSprite;
@@ -177,6 +178,9 @@ class MainMenuState extends MusicBeatState
 					menuItem.x = 647;
 				case 3:
 					menuItem.x = 958;
+				case 4:
+					menuItem.y = 549 - menuItem.height - 30;
+					menuItem.x = 958;
 			}
 		}
 
@@ -256,6 +260,16 @@ class MainMenuState extends MusicBeatState
 			}
 			else if (controls.UI_RIGHT_P && controls.UI_LEFT_P){}
 
+			if(controls.UI_UP_P && curSelected == 3)
+			{
+				FlxG.sound.play(Paths.sound('scrollMenu'));
+				changeItem(1);
+			} else if(controls.UI_DOWN_P && curSelected == 4)
+			{
+				FlxG.sound.play(Paths.sound('scrollMenu'));
+				changeItem(-1);
+			}
+
 			if (controls.BACK)
 			{
 				selectedSomethin = true;
@@ -288,7 +302,7 @@ class MainMenuState extends MusicBeatState
 						}
 						else
 						{
-							FlxTween.tween(arrow, {y: 502}, 0.4, {ease: FlxEase.smoothStepInOut, onComplete: function(twn:FlxTween)
+							FlxTween.tween(arrow, {y: arrow.y + 20}, 0.4, {ease: FlxEase.smoothStepInOut, onComplete: function(twn:FlxTween)
 								{
 									FlxTween.tween(arrow, {y: arrow.height * -1}, 0.5, {ease: FlxEase.expoIn});
 								}
@@ -313,6 +327,10 @@ class MainMenuState extends MusicBeatState
 										MusicBeatState.switchState(new CreditsState());
 									case 'options':
 										LoadingState.loadAndSwitchState(new options.OptionsState(), false, false);
+									case 'chile':
+										PlayState.SONG = Song.loadFromJson('pico', 'pico');
+										LoadingState.loadAndSwitchState(new PlayState());
+										FlxG.mouse.visible = false;
 								}
 
 								if(FlxG.save.data.beatedSoni)
@@ -346,7 +364,7 @@ class MainMenuState extends MusicBeatState
 		guy = FlxG.random.int(1,5);
 		if(guy > 5) guy = 1;
 
-		thing.animation.addByPrefix('idle', optionShit[curSelected], 24);
+		thing.animation.addByPrefix('idle', curSelected == 4 ? 'story_mode' : optionShit[curSelected], 24);
 		thingi.animation.addByPrefix('idle', 'freeplay' + guy, 24);
 
 		if(curSelected != 1)
@@ -384,7 +402,7 @@ class MainMenuState extends MusicBeatState
 
 		switch(curSelected)
 		{
-			case 0:
+			case 0 | 4:
 				thing.y = thingY;
 				thing.x = thingX - 100;
 			case 2 | 3:
@@ -396,16 +414,17 @@ class MainMenuState extends MusicBeatState
 
 		menuItems.forEach(function(spr:FlxSprite)
 		{
-			if(spr.y != 549)
+			var sprY:Float = spr.ID != 4 ? 549 : 549 - spr.height - 30;
+			if(spr.y != sprY)
 			{
-				FlxTween.tween(spr, {y: 549}, 0.1, {ease: FlxEase.smootherStepInOut});
+				FlxTween.tween(spr, {y: sprY}, 0.1, {ease: FlxEase.smootherStepInOut});
 			}
 			spr.updateHitbox();
 
 			if (spr.ID == curSelected)
 			{
-				FlxTween.tween(arrow, {x: spr.x + 110}, 0.1, {ease: FlxEase.smootherStepInOut});
-				FlxTween.tween(spr, {y: spr.y - 10}, 0.1, {ease: FlxEase.smootherStepInOut});
+				FlxTween.tween(arrow, {x: spr.x + 110, y: spr.y - 68}, 0.1, {ease: FlxEase.smootherStepInOut});
+				FlxTween.tween(spr, {y: sprY - 10}, 0.1, {ease: FlxEase.smootherStepInOut});
 			}
 		});
 	}
