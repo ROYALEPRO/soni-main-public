@@ -1,0 +1,4 @@
+﻿<TextureAtlas imagePath="pianoekis.png">
+	<SubTexture name="piano ekisd0000" x="0" y="0" width="600" height="601"/>
+	<SubTexture name="piano ekisd0001" x="600" y="0" width="600" height="601"/>
+</TextureAtlas>

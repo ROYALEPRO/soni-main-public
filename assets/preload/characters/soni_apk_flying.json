@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-137,
+				8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-34
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				70
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		}
+	],
+	"dataType": "SPARROW",
+	"no_antialiasing": false,
+	"image": "characters/soniapk_jaloguin",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "soni-apk-halloween",
+	"flip_x": false,
+	"healthbar_colors": [
+		8,
+		12,
+		98
+	],
+	"camera_position": [
+		-390,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

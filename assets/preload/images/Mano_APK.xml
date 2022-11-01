@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mano_APK.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cartel_Apk0000" x="0" y="0" width="213" height="349" frameX="-371" frameY="-434" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0001" x="0" y="0" width="213" height="349" frameX="-371" frameY="-434" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0002" x="213" y="0" width="222" height="342" frameX="-394" frameY="-195" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0003" x="435" y="0" width="208" height="486" frameX="-440" frameY="-49" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0004" x="435" y="0" width="208" height="486" frameX="-440" frameY="-49" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0005" x="643" y="0" width="210" height="502" frameX="-482" frameY="-33" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0006" x="643" y="0" width="210" height="502" frameX="-482" frameY="-33" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0007" x="853" y="0" width="211" height="496" frameX="-491" frameY="-35" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0008" x="853" y="0" width="211" height="496" frameX="-491" frameY="-35" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0009" x="1064" y="0" width="213" height="494" frameX="-495" frameY="-38" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0010" x="1277" y="0" width="212" height="489" frameX="-488" frameY="-36" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0011" x="1277" y="0" width="212" height="489" frameX="-488" frameY="-36" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0012" x="1277" y="0" width="212" height="489" frameX="-488" frameY="-36" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0013" x="1277" y="0" width="212" height="489" frameX="-488" frameY="-36" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0014" x="1489" y="0" width="202" height="464" frameX="-390" frameY="-51" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0015" x="1691" y="0" width="338" height="348" frameX="-171" frameY="-181" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0016" x="2029" y="0" width="320" height="242" frameX="-19" frameY="-403" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0017" x="2349" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0018" x="2349" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0019" x="2349" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0020" x="2349" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0021" x="2349" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0022" x="2349" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0023" x="2349" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0024" x="2349" y="0" width="432" height="366" frameX="-258" frameY="-426" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0025" x="2349" y="0" width="432" height="366" frameX="-258" frameY="-426" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0026" x="2781" y="0" width="427" height="406" frameX="-353" frameY="-261" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0027" x="3208" y="0" width="471" height="431" frameX="-421" frameY="-100" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0028" x="0" y="502" width="480" height="517" frameX="-437" frameY="-15" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0029" x="0" y="502" width="480" height="517" frameX="-437" frameY="-15" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0030" x="480" y="502" width="489" height="502" frameX="-443" frameY="-36" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0031" x="969" y="502" width="493" height="489" frameX="-445" frameY="-48" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0032" x="969" y="502" width="493" height="489" frameX="-445" frameY="-48" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0033" x="969" y="502" width="493" height="489" frameX="-445" frameY="-48" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0034" x="969" y="502" width="493" height="489" frameX="-445" frameY="-48" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0035" x="969" y="502" width="493" height="489" frameX="-445" frameY="-48" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0036" x="1462" y="502" width="479" height="497" frameX="-446" frameY="-40" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0037" x="1941" y="502" width="470" height="527" frameX="-399" frameY="-4" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0038" x="1941" y="502" width="470" height="527" frameX="-399" frameY="-4" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0039" x="2411" y="502" width="467" height="529" frameX="-318" frameY="0" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0040" x="2878" y="502" width="447" height="516" frameX="-266" frameY="-15" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0041" x="3325" y="502" width="418" height="492" frameX="-217" frameY="-43" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0042" x="3325" y="502" width="418" height="492" frameX="-217" frameY="-43" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0043" x="0" y="1031" width="457" height="514" frameX="-101" frameY="-13" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0044" x="457" y="1031" width="468" height="515" frameX="-32" frameY="-10" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0045" x="925" y="1031" width="469" height="512" frameX="-10" frameY="-11" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0046" x="1394" y="1031" width="468" height="512" frameX="0" frameY="-12" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0047" x="1394" y="1031" width="468" height="512" frameX="0" frameY="-12" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0048" x="1394" y="1031" width="468" height="512" frameX="0" frameY="-12" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0049" x="1394" y="1031" width="468" height="512" frameX="0" frameY="-12" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0050" x="1394" y="1031" width="468" height="512" frameX="0" frameY="-12" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0051" x="1862" y="1031" width="469" height="518" frameX="-22" frameY="-13" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0052" x="2331" y="1031" width="466" height="513" frameX="-74" frameY="-27" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0053" x="2797" y="1031" width="521" height="330" frameX="-119" frameY="-183" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0054" x="2797" y="1031" width="521" height="330" frameX="-119" frameY="-183" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0055" x="3318" y="1031" width="553" height="377" frameX="-267" frameY="-319" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0056" x="2349" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0057" x="2349" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0058" x="2349" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="938" frameHeight="792"/>
+	<SubTexture name="Cartel_Apk0059" x="2349" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="938" frameHeight="792"/>
+</TextureAtlas>

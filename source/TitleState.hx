@@ -242,7 +242,7 @@ class TitleState extends MusicBeatState
 			bg.makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
 		}
 
-		soniBG = new FlxSprite().loadGraphic(Paths.image('title/chile/bggg'));
+		soniBG = new FlxSprite().loadGraphic(Paths.image('title/spooky/bggg'));
 		soniBG.screenCenter();
 		soniBG.antialiasing = ClientPrefs.globalAntialiasing;
 		add(soniBG);
@@ -257,11 +257,11 @@ class TitleState extends MusicBeatState
 		circle.antialiasing = ClientPrefs.globalAntialiasing;
 		add(circle);*/
 
-		var s:Int = FlxG.random.int(0,1);
 		soni = new FlxSprite();
-		soni.frames = Paths.getSparrowAtlas('title/chile/${logos[s]}');
-		soni.animation.addByPrefix('bump', '${logos[s]}', 24);
+		soni.frames = Paths.getSparrowAtlas('title/spooky/Logo_Spooky');
+		soni.animation.addByPrefix('bump', 'Logo_Spooky', 24);
 		soni.antialiasing = ClientPrefs.globalAntialiasing;
+		soni.scale.set(.7,.7);
 		soni.screenCenter();
 		add(soni);
 

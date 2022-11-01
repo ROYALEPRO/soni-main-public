@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Logo_Spooky.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Logo_Spooky0000" x="0" y="0" width="1222" height="1111"/>
+	<SubTexture name="Logo_Spooky0001" x="0" y="0" width="1222" height="1111"/>
+	<SubTexture name="Logo_Spooky0002" x="1222" y="0" width="1120" height="1073" frameX="-51" frameY="-19" frameWidth="1222" frameHeight="1111"/>
+	<SubTexture name="Logo_Spooky0003" x="1222" y="0" width="1120" height="1073" frameX="-51" frameY="-19" frameWidth="1222" frameHeight="1111"/>
+	<SubTexture name="Logo_Spooky0004" x="2342" y="0" width="934" height="870" frameX="-144" frameY="-120" frameWidth="1222" frameHeight="1111"/>
+	<SubTexture name="Logo_Spooky0005" x="2342" y="0" width="934" height="870" frameX="-144" frameY="-120" frameWidth="1222" frameHeight="1111"/>
+	<SubTexture name="Logo_Spooky0006" x="0" y="1111" width="942" height="884" frameX="-140" frameY="-114" frameWidth="1222" frameHeight="1111"/>
+	<SubTexture name="Logo_Spooky0007" x="942" y="1111" width="960" height="899" frameX="-131" frameY="-106" frameWidth="1222" frameHeight="1111"/>
+	<SubTexture name="Logo_Spooky0008" x="942" y="1111" width="960" height="899" frameX="-131" frameY="-106" frameWidth="1222" frameHeight="1111"/>
+	<SubTexture name="Logo_Spooky0009" x="942" y="1111" width="960" height="899" frameX="-131" frameY="-106" frameWidth="1222" frameHeight="1111"/>
+	<SubTexture name="Logo_Spooky0010" x="942" y="1111" width="960" height="899" frameX="-131" frameY="-106" frameWidth="1222" frameHeight="1111"/>
+	<SubTexture name="Logo_Spooky0011" x="942" y="1111" width="960" height="899" frameX="-131" frameY="-106" frameWidth="1222" frameHeight="1111"/>
+</TextureAtlas>

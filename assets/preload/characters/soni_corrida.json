@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-77,
+				31
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-15,
+				-16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				7,
+				54
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				103,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle_Soni"
+		}
+	],
+	"dataType": "SPARROW",
+	"no_antialiasing": false,
+	"image": "characters/Soni_Halloween",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "soni-apk-soni",
+	"flip_x": false,
+	"healthbar_colors": [
+		8,
+		12,
+		98
+	],
+	"camera_position": [
+		-250,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

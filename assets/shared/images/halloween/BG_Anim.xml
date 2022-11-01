@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BG_Anim.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BG_Anim0000" x="0" y="0" width="1461" height="947"/>
+	<SubTexture name="BG_Anim0001" x="1461" y="0" width="1461" height="920" frameX="0" frameY="-27" frameWidth="1461" frameHeight="947"/>
+	<SubTexture name="BG_Anim0002" x="1461" y="0" width="1461" height="920" frameX="0" frameY="-27" frameWidth="1461" frameHeight="947"/>
+	<SubTexture name="BG_Anim0003" x="0" y="947" width="1461" height="901" frameX="0" frameY="-46" frameWidth="1461" frameHeight="947"/>
+	<SubTexture name="BG_Anim0004" x="0" y="947" width="1461" height="901" frameX="0" frameY="-46" frameWidth="1461" frameHeight="947"/>
+	<SubTexture name="BG_Anim0005" x="1461" y="947" width="1461" height="923" frameX="0" frameY="-24" frameWidth="1461" frameHeight="947"/>
+	<SubTexture name="BG_Anim0006" x="0" y="1870" width="1461" height="888" frameX="0" frameY="-59" frameWidth="1461" frameHeight="947"/>
+	<SubTexture name="BG_Anim0007" x="0" y="1870" width="1461" height="888" frameX="0" frameY="-59" frameWidth="1461" frameHeight="947"/>
+</TextureAtlas>

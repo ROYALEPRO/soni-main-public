@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Calavera_Anim.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Calav_Anim0000" x="0" y="0" width="101" height="107" frameX="-13" frameY="-41" frameWidth="127" frameHeight="148"/>
+	<SubTexture name="Calav_Anim0001" x="0" y="0" width="101" height="107" frameX="-13" frameY="-41" frameWidth="127" frameHeight="148"/>
+	<SubTexture name="Calav_Anim0002" x="0" y="0" width="101" height="107" frameX="-13" frameY="-41" frameWidth="127" frameHeight="148"/>
+	<SubTexture name="Calav_Anim0003" x="101" y="0" width="98" height="109" frameX="-14" frameY="-39" frameWidth="127" frameHeight="148"/>
+	<SubTexture name="Calav_Anim0004" x="199" y="0" width="96" height="112" frameX="-15" frameY="-36" frameWidth="127" frameHeight="148"/>
+	<SubTexture name="Calav_Anim0005" x="199" y="0" width="96" height="112" frameX="-15" frameY="-36" frameWidth="127" frameHeight="148"/>
+	<SubTexture name="Calav_Anim0006" x="295" y="0" width="111" height="91" frameX="-8" frameY="-57" frameWidth="127" frameHeight="148"/>
+	<SubTexture name="Calav_Anim0007" x="406" y="0" width="113" height="84" frameX="-7" frameY="-64" frameWidth="127" frameHeight="148"/>
+	<SubTexture name="Calav_Anim0008" x="406" y="0" width="113" height="84" frameX="-7" frameY="-64" frameWidth="127" frameHeight="148"/>
+	<SubTexture name="Calav_Anim0009" x="519" y="0" width="127" height="100" frameX="0" frameY="-48" frameWidth="127" frameHeight="148"/>
+	<SubTexture name="Calav_Anim0010" x="646" y="0" width="97" height="114" frameX="-14" frameY="-21" frameWidth="127" frameHeight="148"/>
+	<SubTexture name="Calav_Anim0011" x="743" y="0" width="97" height="114" frameX="-14" frameY="-21" frameWidth="127" frameHeight="148"/>
+	<SubTexture name="Calav_Anim0012" x="840" y="0" width="95" height="119" frameX="-15" frameY="-7" frameWidth="127" frameHeight="148"/>
+	<SubTexture name="Calav_Anim0013" x="0" y="119" width="95" height="119" frameX="-15" frameY="-7" frameWidth="127" frameHeight="148"/>
+	<SubTexture name="Calav_Anim0014" x="95" y="119" width="102" height="109" frameX="-12" frameY="-3" frameWidth="127" frameHeight="148"/>
+	<SubTexture name="Calav_Anim0015" x="197" y="119" width="102" height="109" frameX="-12" frameY="0" frameWidth="127" frameHeight="148"/>
+	<SubTexture name="Calav_Anim0016" x="299" y="119" width="102" height="109" frameX="-12" frameY="0" frameWidth="127" frameHeight="148"/>
+	<SubTexture name="Calav_Anim0017" x="401" y="119" width="102" height="109" frameX="-12" frameY="0" frameWidth="127" frameHeight="148"/>
+	<SubTexture name="Calav_Anim0018" x="503" y="119" width="102" height="109" frameX="-12" frameY="0" frameWidth="127" frameHeight="148"/>
+	<SubTexture name="Calav_Anim0019" x="95" y="119" width="102" height="109" frameX="-12" frameY="0" frameWidth="127" frameHeight="148"/>
+	<SubTexture name="Calav_Anim0020" x="605" y="119" width="99" height="115" frameX="-13" frameY="-6" frameWidth="127" frameHeight="148"/>
+	<SubTexture name="Calav_Anim0021" x="704" y="119" width="121" height="81" frameX="-3" frameY="-67" frameWidth="127" frameHeight="148"/>
+	<SubTexture name="Calav_Anim0022" x="704" y="119" width="121" height="81" frameX="-3" frameY="-67" frameWidth="127" frameHeight="148"/>
+	<SubTexture name="Calav_Anim0023" x="825" y="119" width="113" height="87" frameX="-7" frameY="-61" frameWidth="127" frameHeight="148"/>
+	<SubTexture name="Calav_Anim0024" x="0" y="238" width="104" height="104" frameX="-12" frameY="-44" frameWidth="127" frameHeight="148"/>
+	<SubTexture name="Calav_Anim0025" x="0" y="238" width="104" height="104" frameX="-12" frameY="-44" frameWidth="127" frameHeight="148"/>
+	<SubTexture name="Calav_Anim0026" x="0" y="0" width="101" height="107" frameX="-13" frameY="-41" frameWidth="127" frameHeight="148"/>
+	<SubTexture name="Calav_Anim0027" x="0" y="0" width="101" height="107" frameX="-13" frameY="-41" frameWidth="127" frameHeight="148"/>
+</TextureAtlas>

@@ -39,7 +39,7 @@ class MainMenuState extends MusicBeatState
 		'freeplay',
 		'options',
 		'credits',
-		'chile'
+		'halloween'
 	];
 
 	var magenta:FlxSprite;
@@ -327,8 +327,8 @@ class MainMenuState extends MusicBeatState
 										MusicBeatState.switchState(new CreditsState());
 									case 'options':
 										LoadingState.loadAndSwitchState(new options.OptionsState(), false, false);
-									case 'chile':
-										PlayState.SONG = Song.loadFromJson('pico', 'pico');
+									case 'halloween':
+										PlayState.SONG = Song.loadFromJson('3am', '3am');
 										LoadingState.loadAndSwitchState(new PlayState());
 										FlxG.mouse.visible = false;
 								}

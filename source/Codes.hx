@@ -132,6 +132,10 @@ class Codes extends MusicBeatState
                     PlayState.SONG = Song.loadFromJson('sonibars', 'sonibars');
                     LoadingState.loadAndSwitchState(new PlayState());
                     FlxG.mouse.visible = false;
+                case '1809': //metal sonic chileno xd
+                    PlayState.SONG = Song.loadFromJson('pico', 'pico');
+                    LoadingState.loadAndSwitchState(new PlayState());
+                    FlxG.mouse.visible = false;
                 case '7545': //Shadow fucking die bruhhh
                     FlxG.mouse.visible = false;
                     FlxG.sound.pause();
